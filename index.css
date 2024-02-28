@@ -176,7 +176,7 @@ body{
 }
 .list:hover{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-    transform: scaleY(1.05);
+    transform: scale(1.1,1.1);
     
 }
 .list img{
